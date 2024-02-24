@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/cloud303-cholden/odoo-rs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cloud303-cholden&repo=odoo-rs&theme=nord&hide_border=true">
+    <a href="https://github.com/cloud303-cholden/rs-odoo-rpc">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cloud303-cholden&repo=rs-odoo-rpc&theme=nord&hide_border=true">
     </a>
     <a href="https://github.com/cloud303-cholden/rs-slack">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=cloud303-cholden&repo=rs-slack&theme=nord&hide_border=true">
